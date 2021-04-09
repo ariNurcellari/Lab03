@@ -76,9 +76,9 @@
                         <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
                      </HBox.margin>
                   </Label>
-                  <Button fx:id="ClearText" mnemonicParsing="false" onAction="#doClearText" text="Clear Text">
+                  <Button fx:id="ClearText" alignment="BOTTOM_RIGHT" contentDisplay="RIGHT" mnemonicParsing="false" onAction="#doClearText" text="Clear Text">
                      <HBox.margin>
-                        <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+                        <Insets bottom="15.0" left="50.0" right="15.0" top="15.0" />
                      </HBox.margin>
                   </Button>
                </children>

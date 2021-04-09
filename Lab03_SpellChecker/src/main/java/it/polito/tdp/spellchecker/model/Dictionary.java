@@ -10,6 +10,7 @@ public class Dictionary {
 	
 	List<String> englishDictionary ;
 	List<String> ItalianDictionary ;
+	List<String> englishDictionaryList;
 	
 	public Dictionary() {
 		this.englishDictionary = new ArrayList<String>() ;
